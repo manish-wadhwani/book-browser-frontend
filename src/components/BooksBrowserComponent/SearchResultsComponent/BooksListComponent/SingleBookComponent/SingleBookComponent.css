@@ -1,0 +1,17 @@
+.SingleBookComponent {
+    border: 1px solid #d0d3d8;
+    margin-top: 10px;
+    height: 150px;
+}
+
+.SingleBookComponent:hover {
+    border: 1px solid #4b6591;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.SingleBookComponent img {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+}
